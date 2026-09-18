@@ -4,7 +4,7 @@
 
 **Автор:** Петренко Іван, група КН-11
 **Тема проекту:** інформаційний сайт про Helldivers 2
-**Адреса опублікованого сайту:** https://ivan-petrenko.github.com/web-course/
+**Адреса опублікованого сайту:** [https://S1rota-pipindro.github.io/web-course/](https://S1rota-pipindro.github.io/web-course/)
 
 ## Перелік лабораторних робіт
 
